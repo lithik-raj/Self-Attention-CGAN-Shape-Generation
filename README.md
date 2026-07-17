@@ -15,7 +15,7 @@ This project implements a **Self-Attention Conditional GAN (CGAN)** using **PyTo
 - Model training and inference
 - Google Colab implementation
 
----
+
 
 ## 📂 Dataset
 
@@ -25,7 +25,7 @@ Custom-generated dataset containing:
 - 🟩 Square
 - 🔺 Triangle
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -37,16 +37,12 @@ Custom-generated dataset containing:
 - Pillow
 - Google Colab
 
----
-
 ## 📈 Results
 
 - Generated class-conditioned geometric shapes.
 - Applied Self-Attention for improved feature learning.
-- Visualized attention maps for generated images.
+- Visualized attention maps for generated images
 
----
----
 
 ## 🚀 Future Improvements
 
@@ -54,7 +50,6 @@ Custom-generated dataset containing:
 - Train on larger datasets
 - Extend to text-to-image generation
 
----
 
 ## 👨‍💻 Author
 
